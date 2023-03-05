@@ -2,7 +2,7 @@
 <h2>Messapp.site</h2>
 
 <div>
-<a href="https://messapp.site">
+<a href="https://messapp.site" target="blank">
   <img src="https://messapp.site/assets/img/msglogo.jpg"
 </a>
 </div>
@@ -27,7 +27,7 @@
   &nbsp;
 <h2>Blogex</h2>
 <div>
-  <a href="https://blogex.netlify.app">
+  <a href="https://blogex.netlify.app" target="blank">
     <img src="https://blogex.netlify.app/assets/img/logo-blogex.jpg" style="width:200px">
   </a>
 </div>
