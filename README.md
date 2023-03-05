@@ -1,5 +1,4 @@
 <h1>Projects</h1>
-<hr>
 <h2>Messapp.site</h2>
 
 <div>
@@ -12,7 +11,7 @@
 <h5>Frontend: </h5>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,6 +23,25 @@
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+  &nbsp;
+<h2>Blogex</h2>
+<div>
+  <a href="https://blogex.netlify.app">
+    <img src="https://blogex.netlify.app/assets/img/logo-blogex.jpg" style="width:200px">
+  </a>
+</div>
+&nbsp;
+<p>Blogex is a web platform that allows users to create their own blog, with articles related with an interesting places in the world. In the main page there is a map, there you can see all articles published.</p>
+<p>I'm part of the frontend developers of this project, for which we used:</p>
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular Material-3f51b5?style=for-the-badge&logo=angular">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 <!--
 **OriolGalm/OriolGalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
