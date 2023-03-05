@@ -1,10 +1,12 @@
 ### Projects
 <hr>
-Messapp.site
-<hr>
+<h2>Messapp.site</h2>
+
 <a href="https://messapp.site">
   <img src="https://messapp.site/assets/img/msglogo.jpg"
 </a>
+  
+  <p>It is an app that allows you to send and receive messages to previously registered users</p>
 
 <!--
 **OriolGalm/OriolGalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
